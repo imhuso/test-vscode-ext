@@ -1,15 +1,15 @@
 {
-  "publisher": "antfu",
-  "name": "ext-name",
-  "displayName": "ext-name",
+  "publisher": "imhuso",
+  "name": "test-vscode-ext",
+  "displayName": "Imhuso",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@8.10.5",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Imhuso <imhuso5@hotmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/ext-name#readme",
+  "funding": "https://github.com/sponsors/imhuso",
+  "homepage": "https://github.com/imhuso/test-vscode-ext#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/antfu/ext-name"
