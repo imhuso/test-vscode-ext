@@ -8,17 +8,13 @@
   "description": "",
   "author": "Imhuso <imhuso5@hotmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/imhuso",
   "homepage": "https://github.com/imhuso/test-vscode-ext#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/ext-name"
+    "url": "https://github.com/imhuso/test-vscode-ext"
   },
   "bugs": {
-    "url": "https://github.com/antfu/ext-name/issues"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/imhuso/test-vscode-ext/issues"
   },
   "categories": [
     "Other"
